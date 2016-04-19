@@ -1,4 +1,4 @@
-# learning_elixir
+# elixir_noob
 
 ```
 brew install elixir
