@@ -20,6 +20,7 @@ elixir programming_elixir/hello.exs
 ### Mix
 
 * start iex with default mix task => `iex -S mix`
+* recompile dependencies `mix deps.compile` (for debugging)
 
 ### iEX
 
