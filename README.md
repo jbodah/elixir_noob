@@ -24,6 +24,7 @@ elixir programming_elixir/hello.exs
 ### iEX
 
 * `r(Module)` => recompile and reload module interactively :heart:
+* `v(-1)` => last return value
 
 ### OTP
 
