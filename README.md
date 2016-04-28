@@ -12,6 +12,11 @@ elixir programming_elixir/hello.exs
 * add to `mix.exs` (both `deps` and `application`)
 * `mix deps.get`
 
+### Processes
+
+* `spawn_link` => errors crash parent process
+* `spawn` => errors don't crash parent process
+
 ### OTP
 
 #### `GenServer` - generic server
