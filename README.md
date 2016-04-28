@@ -17,6 +17,10 @@ elixir programming_elixir/hello.exs
 * `spawn_link` => errors crash parent process
 * `spawn` => errors don't crash parent process
 
+### Mix
+
+* start iex with default mix task => `iex -S mix`
+
 ### OTP
 
 #### `GenServer` - generic server
