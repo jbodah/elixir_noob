@@ -21,6 +21,10 @@ elixir programming_elixir/hello.exs
 
 * start iex with default mix task => `iex -S mix`
 
+### iEX
+
+* `r(Module)` => recompile and reload module interactively :heart:
+
 ### OTP
 
 #### `GenServer` - generic server
