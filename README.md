@@ -7,6 +7,8 @@ elixir programming_elixir/hello.exs
 
 ## Cheatsheet
 
+`find lib test | entr mix test`
+
 ### Dependencies
 
 * add to `mix.exs` (both `deps` and `application`)
